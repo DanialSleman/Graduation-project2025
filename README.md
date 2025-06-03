@@ -1,1 +1,1 @@
-# Gradulation-project2025
+# Graduation-project2025
