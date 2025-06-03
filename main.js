@@ -316,7 +316,7 @@ console.log("**************************************************")
 // console.log("b")
 // console.log("c")
 
-/*
+
 let myRequest = new XMLHttpRequest();
 myRequest.open("GET", "https://api.github.com/users/elzerowebschool/repos");
 myRequest.send()
@@ -337,7 +337,7 @@ myRequest.onreadystatechange = function () {
     }
     }
 }
-*/
+         
 function make(e){
     e.style.color = "red";
 }
