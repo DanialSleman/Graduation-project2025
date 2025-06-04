@@ -87,10 +87,10 @@ font-size: 15px;
     line-height: 1.6;
     margin-top: 5px;
 }
-.landing .header-area li a{
+/* .landing .header-area li a{
     text-decoration: none;
     color:white;
-} 
+}  */
 .landing .header-area li a:hover,
 .landing .header-area li a.active
 {
